@@ -1,6 +1,4 @@
-Certainly! Below is a GitHub README template designed for **Haritha Bolla** based on the information you've provided earlier. This template can be used for your GitHub profile or personal portfolio:
 
----
 
 # Venkata Haritha Bolla
 
@@ -76,24 +74,10 @@ I am experienced in building interactive dashboards with **Tableau** and **Power
 - Optimized SQL queries, improving data extraction performance by 65%.
 - Implemented scalable and secure storage solutions with AWS S3, reducing data access time by 49%.
 
-### **Financial Services Company** - Texas, US
+### **Infosysis** - India
 **Data Analyst**  
 *Jun 2020 – Jul 2023*  
 - Analyzed customer transaction data to uncover spending trends and predict future behavior using predictive models.
 - Built dashboards to track KPIs and presented findings to senior management.
 
----
 
-## **Contact Me**
-Feel free to reach out for collaboration, consulting, or just to talk about **data science**, **machine learning**, or any of my projects.
-
----
-
-### 🌐 **Let's connect!**
-- **Email**: [Venkata7.bolla@gmail.com](mailto:Venkata7.bolla@gmail.com)
-- **GitHub**: [github.com/venkataharitha](https://github.com/venkataharitha)
-- **LinkedIn**: [linkedin.com/in/venkataharitha](https://www.linkedin.com/in/venkataharitha/)
-
----
-
-This structure helps showcase your skills, experience, and projects in a clean and professional manner while making it easy for potential employers or collaborators to connect with you.
